@@ -1,7 +1,5 @@
 # JovinLowellDula
-
-
-**Name:** Jovin Lowell Dula  
+ 
 **Education:**
 | Grade Level | Institution |
 |------------|------------|
