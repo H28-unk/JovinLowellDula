@@ -17,7 +17,7 @@ Become An OCI Foundations Associate (2025):
 Become An OCI AI Foundations Associate (2025):                                                           
 | https://catalog-education.oracle.com/pls/certview/sharebadge?id=B6577CACF0E60D194E5591F924C3F848A12F6A2DEEB8E24E1390200EA1739B01 | Dec,9,2025 |              
  NoSQL and DBaaS 101:                                                           
-| https://catalog-education.oracle.com/pls/certview/sharebadge?id=B6577CACF0E60D194E5591F924C3F848A12F6A2DEEB8E24E1390200EA1739B0 | Apr,1,2026 |  
+| [https://catalog-education.oracle.com/pls/certview/sharebadge?id=B6577CACF0E60D194E5591F924C3F848A12F6A2DEEB8E24E1390200EA1739B0](https://courses.cognitiveclass.ai/certificates/df2e86441f1b454fbdd349afdc769cfc) | Apr,1,2026 |  
 
 **Skillsets:**                                           
 | Programming Languages: Java, SQL, HTML, CSS) |                                        
