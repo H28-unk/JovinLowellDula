@@ -12,11 +12,11 @@ I am **Jovin Lowell Dula**, with a flair for coding and database management skil
 
 ## 🎓 Education
 
-**BS Information Technology**
-
-*New Era University*
-
-2021 – Present
+| Grade Level | Institution | Year |
+|-------------|-------------|------|
+| College | New Era University (Bachelor of Science in Computer Science) | 2024–Present |
+| High School | Metro Manila College | 2018–2024 |
+| Elementary | Krus Na Ligas Elementary School | 2017–2018 |
 
 ---
 
