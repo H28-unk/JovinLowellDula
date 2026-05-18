@@ -72,8 +72,8 @@ I am **Jovin Lowell Dula**, with a flair for coding and database management skil
 </div>
 ---
 
-&lt;div align="center"&gt;
-  
+<div align="center">
+
 ⭐ *Always learning, always growing.*
 
-&lt;/div&gt;
+</div>
