@@ -49,13 +49,6 @@ I am **Jovin Lowell Dula**, with a flair for coding and database management skil
 
 ---
 
-## 📊 GitHub Stats
-
-![Jovin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JovinLowellDula&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JovinLowellDula&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Let's Connect
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/714112343260397659)
