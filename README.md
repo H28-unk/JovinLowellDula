@@ -1,10 +1,10 @@
-&lt;div align="center"&gt;
-  
+
+
 # Hi, I'm Jovin Lowell Dula 👋
 
 ### Aspiring IT Professional | Database Enthusiast | Problem Solver
 
-&lt;&gt;
+
 
 ---
 
