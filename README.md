@@ -1,36 +1,81 @@
+&lt;div align="center"&gt;
+  
 # Hi, I'm Jovin Lowell Dula 👋
 
-**Aspiring IT Professional | CS Student | Problem Solver**
+### Aspiring IT Professional | Database Enthusiast | Problem Solver
+
+&lt;/div&gt;
+
+---
+
+## 👨‍💻 About Me
+
+I am **Jovin Lowell Dula**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program at **New Era University**.
 
 ---
 
 ## 🎓 Education
 
-| Level | Institution | Year |
-|-------|------------|------|
-| College | New Era University – BS Computer Science | 2024 – Present |
-| High School | Metro Manila College | 2018 – 2024 |
-| Elementary | Krus Na Ligas Elementary School | 2017 – 2018 |
+**BS Information Technology**
+&lt;br&gt;*New Era University*
+&lt;br&gt;2021 – Present
 
 ---
 
 ## 📜 Certifications
 
-| Certification | Date |
-|--------------|------|
-| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/81531b12f6ed40859f0f8b60c3ac5a3e) | Nov 26, 2025 |
-| [OCI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E7AC368FBAC2E09DB2DA334A0DC8A8EFD85C4BC4D4ED8F839888BCF1F9431999) | Dec 5, 2025 |
-| [Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9BB9C88B37BE2468C3D05750200D5FD38F969A9D466C853DB823567E9B8ABABD) | Dec 9, 2025 |
-| [OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B6577CACF0E60D194E5591F924C3F848A12F6A2DEEB8E24E1390200EA1739B01) | Dec 9, 2025 |
-| [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/df2e86441f1b454fbdd349afdc769cfc) | Apr 1, 2026 |
+| Certification | Issuer | Date |
+|-------------|--------|------|
+| [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/81531b12f6ed40859f0f8b60c3ac5a3e) | IBM Cognitive Class | Nov 26, 2025 |
+| [SQL and Relational Databases 101](YOUR_SQL_CERT_LINK_HERE) | IBM Cognitive Class | — |
+| [OCI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E7AC368FBAC2E09DB2DA334A0DC8A8EFD85C4BC4D4ED8F839888BCF1F9431999) | Oracle | Dec 5, 2025 |
+| [Oracle Data Platform Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9BB9C88B37BE2468C3D05750200D5FD38F969A9D466C853DB823567E9B8ABABD) | Oracle | Dec 9, 2025 |
+| [OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B6577CACF0E60D194E5591F924C3F848A12F6A2DEEB8E24E1390200EA1739B01) | Oracle | Dec 9, 2025 |
 
 ---
 
-## 🛠️ Skill Sets
+## 🛠️ Tech Stack
 
-| Category | Skills |
-|----------|--------|
-| Programming Languages | Java, SQL, HTML, CSS |
-| Databases | IBM DB2 Cloud |
-| Frameworks & Tools | Lucidchart, Canva Education |
-| Dev Tools | Visual Studio Code, Microsoft Office |
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Databases
+![IBM DB2](https://img.shields.io/badge/IBM_DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+
+### Tools & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-FA8C16?style=for-the-badge&logo=lucidchart&logoColor=white)
+![Jaspersoft](https://img.shields.io/badge/Jaspersoft_Studio-0078D4?style=for-the-badge&logo=data&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+&lt;div align="center"&gt;
+  
+![Jovin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JovinLowellDula&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JovinLowellDula&layout=compact&theme=tokyonight&hide_border=true)
+
+&lt;/div&gt;
+
+---
+
+## 📫 Let's Connect
+
+&lt;div align="center"&gt;
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandelacruz@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JovinLowellDula)
+
+&lt;/div&gt;
+
+---
+
+&lt;div align="center"&gt;
+  
+⭐ *Always learning, always growing.*
+
+&lt;/div&gt;
