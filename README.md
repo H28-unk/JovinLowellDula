@@ -26,7 +26,7 @@ I am **Jovin Lowell Dula**, with a flair for coding and database management skil
 
 | Certification | Issuer | Date |
 |-------------|--------|------|
-| [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/df2e86441f1b454fbdd349afdc769cfc) | IBM Cognitive Class | Nov 26, 2025 |
+| [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/df2e86441f1b454fbdd349afdc769cfc) | IBM Cognitive Class | Apr 1, 2026 |
 | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/81531b12f6ed40859f0f8b60c3ac5a3e) | IBM Cognitive Class | Nov 26, 2025 |
 | [OCI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E7AC368FBAC2E09DB2DA334A0DC8A8EFD85C4BC4D4ED8F839888BCF1F9431999) | Oracle | Dec 5, 2025 |
 | [Oracle Data Platform Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9BB9C88B37BE2468C3D05750200D5FD38F969A9D466C853DB823567E9B8ABABD) | Oracle | Dec 9, 2025 |
