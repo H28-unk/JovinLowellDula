@@ -72,6 +72,6 @@ I am **Jovin Lowell Dula**, with a flair for coding and database management skil
 
 <div align="center">
 
-⭐ *Always learning, always growing.*
+⭐ *No tree can grow to heaven unless its roots reach down to hell.*
 
 </div>
