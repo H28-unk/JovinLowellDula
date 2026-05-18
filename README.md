@@ -1,10 +1,6 @@
-&lt;div align="center"&gt;
-
 # Hi, I'm Jovin Lowell Dula 👋
 
 ### Aspiring IT Professional | Database Enthusiast | Problem Solver
-
-&lt;/div&gt;
 
 ---
 
@@ -17,8 +13,10 @@ I am **Jovin Lowell Dula**, with a flair for coding and database management skil
 ## 🎓 Education
 
 **BS Information Technology**
-&lt;br&gt;*New Era University*
-&lt;br&gt;2021 – Present
+
+*New Era University*
+
+2021 – Present
 
 ---
 
@@ -53,29 +51,17 @@ I am **Jovin Lowell Dula**, with a flair for coding and database management skil
 
 ## 📊 GitHub Stats
 
-&lt;div align="center"&gt;
-
 ![Jovin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JovinLowellDula&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JovinLowellDula&layout=compact&theme=tokyonight&hide_border=true)
-
-&lt;/div&gt;
 
 ---
 
 ## 📫 Let's Connect
 
-&lt;div align="center"&gt;
-
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/714112343260397659)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jovin53lowell@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JovinLowellDula)
 
-&lt;/div&gt;
-
 ---
 
-&lt;div align="center"&gt;
-
 ⭐ *No tree can grow to heaven unless its roots reach down to hell.*
-
-&lt;/div&gt;
