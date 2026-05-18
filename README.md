@@ -1,26 +1,36 @@
-# JovinLowellDula
- 
-**Education:**
-| Grade Level | Institution |
-|------------|------------|
-| College    | New Era University (Bachelor of Science in Computer Science) | 2024-Present | 
-| High School| Metro Manila College | 2018-2024 |
-| Elementary| Krus Na Ligas Elementary school | 2017-2018 |
+# Hi, I'm Jovin Lowell Dula 👋
 
-**Certifications:**                
-SQL and Relational Databases 101:          
-| https://courses.cognitiveclass.ai/certificates/81531b12f6ed40859f0f8b60c3ac5a3e | Nov,26,2025 |   
-Become An OCI Foundations Associate (2025):                                            
-| https://catalog-education.oracle.com/pls/certview/sharebadge?id=E7AC368FBAC2E09DB2DA334A0DC8A8EFD85C4BC4D4ED8F839888BCF1F9431999 | Dec,5,2025 |               
- Become an Oracle Data Platform Foundations Associate:                                                   
-| https://catalog-education.oracle.com/pls/certview/sharebadge?id=9BB9C88B37BE2468C3D05750200D5FD38F969A9D466C853DB823567E9B8ABABD | Dec,9,2025 |                    
-Become An OCI AI Foundations Associate (2025):                                                           
-| https://catalog-education.oracle.com/pls/certview/sharebadge?id=B6577CACF0E60D194E5591F924C3F848A12F6A2DEEB8E24E1390200EA1739B01 | Dec,9,2025 |              
- NoSQL and DBaaS 101:                                                           
-| [https://catalog-education.oracle.com/pls/certview/sharebadge?id=B6577CACF0E60D194E5591F924C3F848A12F6A2DEEB8E24E1390200EA1739B0](https://courses.cognitiveclass.ai/certificates/df2e86441f1b454fbdd349afdc769cfc) | Apr,1,2026 |  
+**Aspiring IT Professional | CS Student | Problem Solver**
 
-**Skillsets:**                                           
-| Programming Languages: Java, SQL, HTML, CSS) |                                        
-| Databases: IBM DB2 Cloud |                                                             
-| Frameworks & Tools: Lucidchart, Canva Education |                                                              
-| DevTools: Visual Studio Code, Microsoft Office |
+---
+
+## 🎓 Education
+
+| Level | Institution | Year |
+|-------|------------|------|
+| College | New Era University – BS Computer Science | 2024 – Present |
+| High School | Metro Manila College | 2018 – 2024 |
+| Elementary | Krus Na Ligas Elementary School | 2017 – 2018 |
+
+---
+
+## 📜 Certifications
+
+| Certification | Date |
+|--------------|------|
+| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/81531b12f6ed40859f0f8b60c3ac5a3e) | Nov 26, 2025 |
+| [OCI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E7AC368FBAC2E09DB2DA334A0DC8A8EFD85C4BC4D4ED8F839888BCF1F9431999) | Dec 5, 2025 |
+| [Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9BB9C88B37BE2468C3D05750200D5FD38F969A9D466C853DB823567E9B8ABABD) | Dec 9, 2025 |
+| [OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B6577CACF0E60D194E5591F924C3F848A12F6A2DEEB8E24E1390200EA1739B01) | Dec 9, 2025 |
+| [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/df2e86441f1b454fbdd349afdc769cfc) | Apr 1, 2026 |
+
+---
+
+## 🛠️ Skill Sets
+
+| Category | Skills |
+|----------|--------|
+| Programming Languages | Java, SQL, HTML, CSS |
+| Databases | IBM DB2 Cloud |
+| Frameworks & Tools | Lucidchart, Canva Education |
+| Dev Tools | Visual Studio Code, Microsoft Office |
