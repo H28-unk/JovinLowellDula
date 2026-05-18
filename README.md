@@ -69,8 +69,6 @@ I am **Jovin Lowell Dula**, with a flair for coding and database management skil
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jovin53lowell@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JovinLowellDula)
 
-</div>
----
 
 <div align="center">
 
